@@ -4,8 +4,8 @@ Travel Companion is a web app that serves you the basic details about your next 
 
 ## Features
 
-- An overview on your destination
-- Best restaurants
+- An overview of your destination
+- Best Restaurants
 - Next 3 days' weather forecast
 - Location on the map and its surroundings
 - Latest news and information
@@ -18,7 +18,7 @@ Travel Companion is a web app that serves you the basic details about your next 
 
 _Additional NPM packages_
 
-- axios
+- Axios
 - mapbox-gl
 - react-toastify
 - react-router-dom
@@ -51,11 +51,10 @@ To run this project, you will need to add the following environment variables to
 Clone the project
 
 ```bash
-  
   npm install
 ```
 
-For client side
+For client-side
 
 ```bash
   cd client
