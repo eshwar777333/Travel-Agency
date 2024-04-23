@@ -62,8 +62,13 @@ For client side
   npm install
 ```
 
+Install this
+``` bash
+ npm install --save google-map-react
+```
+
 Start
 
 ```bash
-  npm run dev
+  npm run start
 ```
